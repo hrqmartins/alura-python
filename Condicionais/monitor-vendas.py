@@ -29,6 +29,7 @@ print("\033[38;5;82m"
        "\033[0m")
 
 print("------------------------------------------------------------------------\n")
+
 # Solicita a quantidade de vendas de maçãs e bananas
 quantidade_maca = int(input("Digite a quantidade de maçãs vendidas: "))
 quantidade_banana = int(input("Digite a quantidade de bananas vendidas: "))
