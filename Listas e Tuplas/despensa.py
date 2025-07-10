@@ -11,3 +11,4 @@ if item in despensa:
     print(f"{item} já está na despensa.")
 else:
     print(f"{item} não está na despensa. Você precisa comprar.")
+print(despensa)
